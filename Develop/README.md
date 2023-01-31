@@ -1,3 +1,0 @@
-# First-webite 
-
-I've added alt tags to all the images except the background image coded in through css. I chose to include alt tags because they are great way for search engine bots to help match whatever users are looking for. Better tagging also means higher search ranking. All the that aside it also helps users with visual impairments. Not including alt tags could potentially leave out over 250,000,000 potential users according to the world health organization. 
